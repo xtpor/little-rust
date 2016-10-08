@@ -1,0 +1,4 @@
+[root]
+name = "little-rust-brainfuck"
+version = "0.1.0"
+
