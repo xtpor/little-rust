@@ -9,3 +9,4 @@ This is a collection of programs that I wrote while I am learning Rust.
 - **bulls-and-cows**: The game of Bulls and Cows
 - **digital-clock**: A digital clock in ascii art 
 - **minesweeper**: TUI minesweeper game
+- **chat-server**: simple chat server
